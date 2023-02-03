@@ -157,11 +157,7 @@ width: 100%;
   width: 100%;
 
 }
-.grid-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 20px;
-}
+
 .hero-banner-container .beats-solo{
   font-size: 20px;
 }
@@ -185,7 +181,7 @@ width: 100%;
 }
 .hero-banner-container h1{
   color: white;
-  font-size: 10em;
+  font-size: 7em;
   margin-left: -20px;
   text-transform: uppercase;
 }
